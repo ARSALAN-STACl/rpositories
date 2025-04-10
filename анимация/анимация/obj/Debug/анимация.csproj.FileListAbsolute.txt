@@ -1,0 +1,10 @@
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.csproj.AssemblyReference.cache
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.Properties.Resources.resources
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.csproj.GenerateResource.cache
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.csproj.CoreCompileInputs.cache
+C:\Users\sswif\source\repos\анимация\анимация\bin\Debug\анимация.exe.config
+C:\Users\sswif\source\repos\анимация\анимация\bin\Debug\анимация.exe
+C:\Users\sswif\source\repos\анимация\анимация\bin\Debug\анимация.pdb
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.Form1.resources
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.exe
+C:\Users\sswif\source\repos\анимация\анимация\obj\Debug\анимация.pdb
