@@ -1,0 +1,10 @@
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ лодок и чего то там.csproj.AssemblyReference.cache
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ_лодок_и_чего_то_там.Form1.resources
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ_лодок_и_чего_то_там.Properties.Resources.resources
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ лодок и чего то там.csproj.GenerateResource.cache
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ лодок и чего то там.csproj.CoreCompileInputs.cache
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\bin\Debug\заказ лодок и чего то там.exe.config
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\bin\Debug\заказ лодок и чего то там.exe
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\bin\Debug\заказ лодок и чего то там.pdb
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ лодок и чего то там.exe
+C:\Users\sswif\source\repos\заказ лодок и чего то там\заказ лодок и чего то там\obj\Debug\заказ лодок и чего то там.pdb
